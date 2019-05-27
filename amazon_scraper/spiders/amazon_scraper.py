@@ -5,7 +5,7 @@ class AmazonScraper(scrapy.Spider):
     name = "amazon_scraper"
 
     # How many pages you want to scrape
-    no_of_pages = 1
+    no_of_pages = 5
 
     # Headers to fix 503 service unavailable error
     # Spoof headers to force servers to think that request coming from browser ;)
