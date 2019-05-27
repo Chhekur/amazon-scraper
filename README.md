@@ -38,7 +38,7 @@ It will create `data.json` file inside the `data` folder containing all the scra
 Already fetched sample data is available in `data` folder
 
 # Troubleshooting
-If `data.json` file doesn't generate in proper format then just delete `data.json` file and `img` folder.
+If `data.json` file doesn't generate in proper format then just delete `data.json` file and `img` folder.  
 Now you good to go ;)
 
 # Preresuisites
